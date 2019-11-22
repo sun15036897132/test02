@@ -28,7 +28,7 @@ public class UserLoginController {
         //return "success";
     }
 
-    @RequestMapping(path = "dologin")
+    @RequestMapping(path = "login")
     public String dologin(){
         return "login";
     }
