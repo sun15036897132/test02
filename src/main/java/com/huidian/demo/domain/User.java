@@ -1,8 +1,5 @@
 package com.huidian.demo.domain;
 
-
-import javax.persistence.Entity;
-
 public class User{
     private Integer uid;
     private  String uusername;
